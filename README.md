@@ -19,3 +19,7 @@ The marketing strategy Cyclistic has used focused on creating awareness of their
 Finance analysts at Cyclistic have learned that annual members produce more profit than casual riders. The marketing director believes that the key to future growth lies within turning casual riders to annual members. Insinuating that converting these users will be more beneficial than targeting completely new users.
 A clear goal has been set to design marketing strategies that can help convert casual riders into annual members. This can be done by analyzing the difference between these types of riders and why someone would consider becoming an annual member. In order to do this, analysis of Cyclistic bike trip data will be done to identify trends and create insightful conclusions.
 ### Scenario
+Cyclistic's director of marketing stands firm that the company's success in the future will come from increasing annual members from already casual riders. My team will delve into understanding how annual members and casual riders differ, and with these insights new strategies for casual rider transitions can be discussed. In order for these strategies to be applied, they must be backed with data insights and visualizations that highlight the information mined from the data.
+
+## Ask
+### Business Task
