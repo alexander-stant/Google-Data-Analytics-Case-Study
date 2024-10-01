@@ -23,3 +23,14 @@ Cyclistic's director of marketing stands firm that the company's success in the 
 
 ## Ask
 ### Business Task
+Formulate marketing strategies that target the conversion of casual riders to annual members.
+
+### Analysis Questions
+Questions to guide marketing strategies:
+  1. How do annual members and casual riders use Cyclistic bikes differently?
+  2. Why would casual riders buy Cyclistic annual membrships?
+  3. How can Cyclistic use digital media to influence casual riders to become members?
+
+## Prepare
+### Data Source
+Cyclistic's trip data from August 2023 to July 2024 was downloaded from [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). This data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).
