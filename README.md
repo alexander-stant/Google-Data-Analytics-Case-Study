@@ -34,3 +34,7 @@ Questions to guide marketing strategies:
 ## Prepare
 ### Data Source
 Cyclistic's trip data from August 2023 to July 2024 was downloaded from [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). This data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).
+This is public data that can be used to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit from using riders’ personally identifiable information. This means that we won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
+
+## Process
+In order to combine all twelve data tables from the last twelve months, BigQuery is used since there are over a total of 6.6 million rows.
