@@ -38,3 +38,5 @@ This is public data that can be used to explore how different customer types are
 
 ## Process
 In order to combine all twelve data tables from the last twelve months, BigQuery is used since there are over a total of 6.6 million rows.
+### Data Combining
+[Data Combining SQL Query](
