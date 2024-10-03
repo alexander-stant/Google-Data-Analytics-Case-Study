@@ -40,4 +40,7 @@ This is public data that can be used to explore how different customer types are
 In order to combine all twelve data tables from the last twelve months, BigQuery is used since there are over a total of 6.6 million rows.
 ### Data Combining
 [Data Combining SQL Query](https://github.com/alexander-stant/Google-Data-Analytics-Case-Study/blob/main/Data%20Combining.sql)
+The dataset '2023_2024_TripData was created, and the 12 cvs files from August 2023 to July 2024 were added. The code above was used to create a combined dataset containing 6,615,324 rows
+### Data Exploration
+[Data Exploration SQL Query](
 
