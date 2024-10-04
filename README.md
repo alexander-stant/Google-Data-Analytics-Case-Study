@@ -70,7 +70,11 @@ All ride_id's have a length of 16 characters, can use as primary key.
 
 No duplicate data found in query.
 
-5. 
+5. Used rideable_type to query types of bikes being used and in what quantity.
+   
+<img width="385" alt="Screenshot 2024-10-04 at 13 56 19" src="https://github.com/user-attachments/assets/bc1f5d0f-299b-4a86-bad4-a2e1ef3763c6">
+
+
 
 
 
