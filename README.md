@@ -74,6 +74,19 @@ No duplicate data found in query.
    
 <img width="385" alt="Screenshot 2024-10-04 at 13 56 19" src="https://github.com/user-attachments/assets/bc1f5d0f-299b-4a86-bad4-a2e1ef3763c6">
 
+6. Used started_at, ended_at to query TIMESTAMP format.
+
+<img width="356" alt="Screenshot 2024-10-04 at 14 13 17" src="https://github.com/user-attachments/assets/086c1a76-c720-400a-ac80-97e8d8ee3c1c">
+
+YYYY-MM-DD hh :mm :ss UTC format is used.
+
+7. Found outlier rides that can be excluded for Analysis.
+
+<img width="407" alt="Screenshot 2024-10-04 at 14 19 48" src="https://github.com/user-attachments/assets/83f3d587-2371-4926-9a8c-ddb8a91d860f">
+
+<img width="432" alt="Screenshot 2024-10-04 at 14 20 28" src="https://github.com/user-attachments/assets/70386532-dd46-44ed-83a7-769d991601a1">
+
+
 
 
 
