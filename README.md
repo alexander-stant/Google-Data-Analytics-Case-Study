@@ -48,3 +48,7 @@ The dataset '2023_2024_TripData' was created, and the 12 cvs files from August 2
 ### Data Exploration
 [Data Exploration SQL Query](https://github.com/alexander-stant/Google-Data-Analytics-Case-Study/blob/main/Data%20Exploration.sql)
 
+1. Queried a table to show column names and data types.
+
+   ![image](
+
