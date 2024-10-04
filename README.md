@@ -52,6 +52,7 @@ The dataset '2023_2024_TripData' was created, and the 12 cvs files from August 2
 
 <img width="382" alt="Screenshot 2024-10-04 at 12 13 23" src="https://github.com/user-attachments/assets/59537945-73cb-410f-9a51-1b2d028f52c8">
 
+
 2. Quieried a table to see total null values.
 
 <img width="1141" alt="Screenshot 2024-10-04 at 12 41 10" src="https://github.com/user-attachments/assets/0525923a-b3d4-4e37-b7fd-216ad740ec14">
