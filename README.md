@@ -1,4 +1,4 @@
-# Google Data Analytics Capstone Project: Cyclistic Bike Share Study
+[Data Types Cyclistic.csv](https://github.com/user-attachments/files/17262729/Data.Types.Cyclistic.csv)[Data Types Cyclistic.csv](https://github.com/user-attachments/files/17262685/Data.Types.Cyclistic.csv)# Google Data Analytics Capstone Project: Cyclistic Bike Share Study
 From Course Assignment: [Google Data Analytics Capstone: How Does a Bike Share Navigate Speedy Success?](https://www.coursera.org/learn/google-data-analytics-capstone/supplement/7PGIT/case-study-1-how-does-a-bike-share-navigate-speedy-success)
 ## Introduction
 The **Google Data Analytics Perfessional Certificate** through Coursera uses the **Cyclistic Bike Share Case Study** as a capstone project. Using analytic skills learned in this course, I wil act as a junior data analyst for the bike share company Cyclistic. The steps used to gain insightful information include **ask, prepare, process, analyze, share, and act.**
@@ -50,5 +50,11 @@ The dataset '2023_2024_TripData' was created, and the 12 cvs files from August 2
 
 1. Queried a table to show column names and data types.
 
-   ![image](https://github.com/alexander-stant/Google-Data-Analytics-Case-Study/blob/main/Data%20Types%20Cyclistic.csv)
+<img width="382" alt="Screenshot 2024-10-04 at 12 13 23" src="https://github.com/user-attachments/assets/59537945-73cb-410f-9a51-1b2d028f52c8">
+
+
+
+   
+
+
 
