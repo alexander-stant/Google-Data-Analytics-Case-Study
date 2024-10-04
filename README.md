@@ -52,12 +52,26 @@ The dataset '2023_2024_TripData' was created, and the 12 cvs files from August 2
 
 <img width="382" alt="Screenshot 2024-10-04 at 12 13 23" src="https://github.com/user-attachments/assets/59537945-73cb-410f-9a51-1b2d028f52c8">
 
-
-2. Quieried a table to see total null values.
+2. Queried a table to see total null values.
 
 <img width="1141" alt="Screenshot 2024-10-04 at 12 41 10" src="https://github.com/user-attachments/assets/0525923a-b3d4-4e37-b7fd-216ad740ec14">
 
 A couple columns have the same number of missing values, which is likely from missing information in these rows such as station name and id or latitude and longitude.
+
+3. Queried ride_id length to use as primary key
+
+<img width="360" alt="Screenshot 2024-10-04 at 13 01 33" src="https://github.com/user-attachments/assets/7d4b06e9-392e-48a8-81db-4758d489ba64">
+
+All ride_id's have a length of 16 characters, can use as primary key.
+
+4. Used ride_id as primary key to query for duplicates.
+
+<img width="494" alt="Screenshot 2024-10-04 at 12 57 48" src="https://github.com/user-attachments/assets/f09b8166-4b3e-4ff6-858f-5dbf45c4f2b2">
+
+No duplicate data found in query.
+
+5. 
+
 
 
    
