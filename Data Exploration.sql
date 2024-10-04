@@ -40,7 +40,7 @@ WHERE row_number = 10;
 
 -- rideable_type: what bikes are available to ride?
 
-SELECT rideable_type
+SELECT rideable_type, COUNT(rideable_types) AS trips
 FROM `2023_2024_TripData.2023_2024_combined_data`
 GROUP BY rideable_type;
 -- three types (electric, classic, docked)
