@@ -66,9 +66,9 @@ All ride_id's have a length of 16 characters, can use as primary key.
 
 4. Used ride_id as primary key to query for duplicates.
 
-<img width="494" alt="Screenshot 2024-10-04 at 12 57 48" src="https://github.com/user-attachments/assets/f09b8166-4b3e-4ff6-858f-5dbf45c4f2b2">
+<img width="456" alt="Screenshot 2024-10-04 at 16 59 50" src="https://github.com/user-attachments/assets/b1f25b2d-4ff7-47e4-8802-75a90c7fd3ce">
 
-No duplicate data found in query.
+899,842 duplicate ride_id found that can be excluded from analysis.
 
 5. Used rideable_type to query types of bikes being used and in what quantity.
    
@@ -80,11 +80,38 @@ No duplicate data found in query.
 
 YYYY-MM-DD hh :mm :ss UTC format is used.
 
-7. Found outlier rides that can be excluded for Analysis.
+7. Queried outlier rides that can be excluded for analysis.
 
 <img width="407" alt="Screenshot 2024-10-04 at 14 19 48" src="https://github.com/user-attachments/assets/83f3d587-2371-4926-9a8c-ddb8a91d860f">
 
 <img width="432" alt="Screenshot 2024-10-04 at 14 20 28" src="https://github.com/user-attachments/assets/70386532-dd46-44ed-83a7-769d991601a1">
+
+Found a total of 160,761 rides that can be romeved because they were shorter than a minute or longer than a day.
+
+8. Queried null station id and locations that can be exluded from analysis.
+
+<img width="451" alt="Screenshot 2024-10-04 at 16 47 28" src="https://github.com/user-attachments/assets/30591449-6400-4e79-aca0-b91f4d7a5f8e">
+
+Found 1,086,440 rows missing start station name and id that can be excluded from analysis.
+
+<img width="415" alt="Screenshot 2024-10-04 at 16 48 32" src="https://github.com/user-attachments/assets/72028435-8506-4648-8d82-43e80380bf1b">
+
+Found 1,136,628 rows missing end station name and id that can be excluded from analysis.
+
+9. Queried null ending latitude and longitude that can be excluded from analysis.
+
+<img width="363" alt="Screenshot 2024-10-04 at 17 03 25" src="https://github.com/user-attachments/assets/e6f40316-7608-43dc-ab14-e54994d475aa">
+
+Found 8,698 rows missing end latitude and longitude that can be excluded rom analysis.
+
+10. Queried total of each type of rider.
+
+<img width="481" alt="Screenshot 2024-10-04 at 17 05 03" src="https://github.com/user-attachments/assets/28e8c0fc-aae8-4b3a-a7fc-a99742d98bda">
+
+Found 2,314,037 casual riders and 4,301,287 annual member riders.
+
+
+
 
 
 
