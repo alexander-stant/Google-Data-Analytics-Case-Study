@@ -113,7 +113,7 @@ Found 2,314,037 casual riders and 4,301,287 annual member riders.
 ### Data Cleaning
 [Data Cleaning SQL Query](https://github.com/alexander-stant/Google-Data-Analytics-Case-Study/blob/main/Data%20Cleaning.sql)
 
-1. Rowing having missing values and duplicate rows are removed for analysis.
+1. Rows having missing values and duplicate rows are removed for analysis.
 2. Removed trips with durations of less than a minute and longer than a day.
 3. Added three columns: DAYOFWEEK, MONTH, and ride_length_minutes.
 4. 3,511,088 rows returned from the inital 6,615,324 rows, meaning 3,104,236 rows removed.
