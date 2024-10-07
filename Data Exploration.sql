@@ -32,11 +32,9 @@ GROUP BY LENGTH(ride_id);
 
 -- are there any duplicate rows?
 
-SELECT * EXCEPT(row_number)
-FROM (SELECT*,ROW_NUMBER() OVER (PARTITION BY ride_id) row_number
-FROM `2023_2024_TripData.2023_2024_combined_data`)
-WHERE row_number = 10;
--- no duplicate ride_id's detected
+SELECT COUNT (ride_id) - COUNT(DISTINCT ride_id) AS duplicates
+FROM `2023_2024_TripData.2023_2024_combined_data`;
+-- 899,842 duplicate ride_id's that can be removed
 
 -- rideable_type: what bikes are available to ride?
 
