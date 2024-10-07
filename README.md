@@ -110,6 +110,9 @@ Found 8,698 rows missing end latitude and longitude that can be excluded rom ana
 
 Found 2,314,037 casual riders and 4,301,287 annual member riders.
 
+### Data Cleaning
+[Data Cleaning SQL Query]
+
 
 
 
