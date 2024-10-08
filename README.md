@@ -138,9 +138,9 @@ These next charts show trip totals for a twelve month period, a week, and a day.
 ![Monthly Ride Chart](https://github.com/user-attachments/assets/39de3223-3e9e-492e-a6b6-f96907a2786a)
 __Monthly:__ Casual riders and annual members behave in the same way throughout the months, showing higher numbers of rides in the summer months and declining in the winter months. Annual member trips are always higher than casual riders, infering they ride to commute or exercise more regularly.
 ![Weekly Ride Chart](https://github.com/user-attachments/assets/6738a79b-a73a-4c88-9480-de3fc039a154)
-__Daily:__ 
+__Daily:__ Casual riders and annual members behave differently throughout the week. While members usually have higher numbers of trips during the week, casual riders pick up during the weekends. This is interesting because members ride less during the weekend confirming they commute for their work via bike, and casual members ride more for recreation.
 ![Hourly Ride Chart](https://github.com/user-attachments/assets/e25975fa-8db8-4c32-abfd-d877d42c9374)
-
+__Hourly:__ Casual riders seem to ride the most during the evening hours from 3PM-7PM. This is different than members who seem to have a burst of rides in the morning around 8AM and then again at 5PM. This again confirms that members ride to commute because they peak before and after work hours. Casual riders pick up after work, confirming they do it for their own pleasure after work.
 
 
 
