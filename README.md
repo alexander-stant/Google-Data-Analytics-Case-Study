@@ -123,6 +123,16 @@ Found 2,314,037 casual riders and 4,301,287 annual member riders.
 
 [Data Visualization](https://public.tableau.com/app/profile/alexander.stanton/viz/CyclisticCaseStudyGoogleDataAnalyticsCapstoneProject/Dashboard1#3)
 
+Question for analysis: How do annual members and casual riders use Cyclistic bikes differently?
+
+Tables were queried and then used to create charts to visualize the differences annual members and casual riders have.
+
+The first chart shows the types of bikes casual riders and annual members use.
+
+![Ride Type Chart](https://github.com/user-attachments/assets/a9c85feb-7424-4ffb-99a5-328dd8427b8d)
+
+It is seen how members make up the most rides with 1,541,992 total on classic bikes. Casual riders are seen mostly riding classic bikes with 842,729 rides and the least on docked bikes 15,333. Annual members do not used docked bikes at all.
+
 
 
 
