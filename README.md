@@ -7,9 +7,9 @@ Data: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) (acce
 
 Queries:
 
-[1. Combining Data]
+[1. Combining Data](https://github.com/alexander-stant/Google-Data-Analytics-Case-Study/blob/main/Data%20Combining.sql)
 
-[2. Exploring Data]
+[2. Exploring Data](
 
 [3. Cleaning Data]
 
