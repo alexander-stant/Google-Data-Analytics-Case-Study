@@ -146,6 +146,27 @@ __Daily:__ Casual riders and annual members behave differently throughout the we
 ![Hourly Ride Chart](https://github.com/user-attachments/assets/e25975fa-8db8-4c32-abfd-d877d42c9374)
 __Hourly:__ Casual riders seem to ride the most during the evening hours from 3PM-7PM. This is different than members who seem to have a burst of rides in the morning around 8AM and then again at 5PM. This again confirms that members ride to commute because they peak before and after work hours. Casual riders pick up after work, confirming they do it for their own pleasure after work.
 
+Trip duration in minutes is then compared per month, week, and hour.
+
+![Ride Duration Month Chart](https://github.com/user-attachments/assets/198b0cf7-0c2d-4955-bdf9-231b90f7e3db)
+__Monthly:__ During the summer months (April-September), casual riders take the longest trips with a steady decline during the winter months (October-March). This differs from annual members who maintain the same trip duration throughout all months with a small increse is duration during the summer months (May-August).
+![Ride Duration Week Chart](https://github.com/user-attachments/assets/ddc42bdc-3ff8-4286-bcf0-5bde5f171a66)
+__Weekly:__ A similar trend can be seen in this chart, where casual rider durations peak on Saturday and Sunday and decline during the work week, but not significantly. Annual members still maintain similar durations throughout the week and weekend, with weekend trips lasting only a couple minutes longer.
+![Ride Duration Hour Chart](https://github.com/user-attachments/assets/5383770f-5ef0-4b9f-bff4-de948b22c2e4)
+__Hourly:__ Behavior in this chart shows something a little different. Casual riders peak ride durations happen between 10AM and 3PM with a steady trend for the rest of the day. Their shortest trips seem to be in the morning between 5AM and 8AM. Those who are annual members seem to travel the least before 7AM, but from 8AM-8PM there is a steady trend of trip durations.
+
+This anlysis confirms the ideas that annual members primarily ride to commute to and from work. While casual members ride for longer periods of time, they do so less frequently than annual members. This confirms that they are riding for recreation, especially since their total trips pick up when the weather is warmer and more welcoming to cyclists.
+
+The final part of the analysis is to compare start and end locations for casual and annual members.
+
+![Start Station Chart](https://github.com/user-attachments/assets/8b176f2f-37e5-4a24-bc28-840bd298a70c)
+Riders differ in start locations, where casual riders start near parks, museums, beaches, and other recreational facilities. Whereas members start near residential areas, schools, factories, train stations, and grocery stores.
+![End Station Chart](https://github.com/user-attachments/assets/2c29af9a-1c28-4b6d-b8d2-59568cb72656)
+This chart shows a similar trend with casual riders ending their trips near recreational facilities such as museums and harbors, and members ending their trips near commercial areas such as universities and residential areas. With all this data and information, our insights can be confirmed that casual riders use Cyclistic for recreation/leisure and annual members use it to commute for their daily lives.
+
+
+
+
 
 
 
