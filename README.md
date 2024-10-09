@@ -15,7 +15,7 @@ Queries:
 
 [4. Analyzing Data](https://github.com/alexander-stant/Google-Data-Analytics-Case-Study/blob/main/Data%20Analysis.sql)
 
-Visualizations By: [Tableau](
+Visualizations By: [Tableau](https://public.tableau.com/app/profile/alexander.stanton/viz/CyclisticCaseStudyGoogleDataAnalyticsCapstoneProject/Sheet9#1)
 ## Background
 ### Cyclistic
 A bike-share company, named Cyclistic, is located in Chicago. This company launched in 2016, and has grown their fleet of bicycles over 5,800 bikes with over 650 stations throughout the city. They offer multiple bike options for those unable to use a standard two wheel such as reclining bikes and hand tricycles. Customers are able to rent bikes from one station and return the bikes to any other station once they are done riding. A trait that Cyclistic relies on to promote cycling as a way of transportation around the Chicago area.
