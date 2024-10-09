@@ -7,8 +7,11 @@ Data: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) (acce
 
 Queries:
 [1. Combining Data]
+
 [2. Exploring Data]
+
 [3. Cleaning Data]
+
 [4. Analyzing Data]
 
 Visualizations By: [Tableau]
