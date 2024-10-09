@@ -11,9 +11,9 @@ Queries:
 
 [2. Exploring Data](https://github.com/alexander-stant/Google-Data-Analytics-Case-Study/blob/main/Data%20Exploration.sql)
 
-[3. Cleaning Data](
+[3. Cleaning Data](https://github.com/alexander-stant/Google-Data-Analytics-Case-Study/blob/main/Data%20Cleaning.sql)
 
-[4. Analyzing Data]
+[4. Analyzing Data](
 
 Visualizations By: [Tableau]
 ## Background
