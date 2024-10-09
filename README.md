@@ -9,9 +9,9 @@ Queries:
 
 [1. Combining Data](https://github.com/alexander-stant/Google-Data-Analytics-Case-Study/blob/main/Data%20Combining.sql)
 
-[2. Exploring Data](
+[2. Exploring Data](https://github.com/alexander-stant/Google-Data-Analytics-Case-Study/blob/main/Data%20Exploration.sql)
 
-[3. Cleaning Data]
+[3. Cleaning Data](
 
 [4. Analyzing Data]
 
