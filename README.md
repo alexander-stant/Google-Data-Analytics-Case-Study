@@ -6,6 +6,7 @@ The **Google Data Analytics Perfessional Certificate** through Coursera uses the
 Data: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) (accessed 08/29/24)
 
 Queries:
+
 [1. Combining Data]
 
 [2. Exploring Data]
