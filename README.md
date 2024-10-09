@@ -164,8 +164,39 @@ Riders differ in start locations, where casual riders start near parks, museums,
 ![End Station Chart](https://github.com/user-attachments/assets/2c29af9a-1c28-4b6d-b8d2-59568cb72656)
 This chart shows a similar trend with casual riders ending their trips near recreational facilities such as museums and harbors, and members ending their trips near commercial areas such as universities and residential areas. With all this data and information, our insights can be confirmed that casual riders use Cyclistic for recreation/leisure and annual members use it to commute for their daily lives.
 
+### Similarities
+1. Both annual members and casual riders prefer riding in the warmer months (May-August). They both decline after this time, as well.
+2. Both types of riders primarily use the classic bikes over the electric ones.
+3. Both types of riders take longer trips on the weekends than weekdays.
 
+### Differences
+1. Annual members ride more frequently than those who ride casually.
+2. Casual riders take less trips, but their ride duration is almost double the annual members' duration.
+3. Casual riders are most active on the weekends and annual members during the week.
 
+## Act
+Using this information, marketing strategies with the purpose of influencing casual riders to become members are created.
+  __1. Reward Point System__
+  A reward system where members can earn points for rides, and then use their points to   get discounted membership prices or free rides. Creates an incentive to ride more and   stay loyal to one company.
+
+  __2. Seasonal Memberships__
+  Offering special discounts during peak days of the week or months of the year to     
+  encourage those using it during these times to sign up. Example: lowering membership    cost during summer months.
+
+  __3. Social Media__
+  Exploiting social media platforms to share testimonials and create content to         
+  encourage casual riders to become members. Highlighting the benefits for casual 
+  riders, and adding the benefits of saving money on gas or public transportation, can 
+  influence casual users to want to get the membership.
+
+  __4. Membership Offers__
+  Offering more than an annual membership. Monthly or weekly memberships, priced 
+  correctly, can influence casual riders to sign up for longer than a day. This can be 
+  beneficial for those looking to ride in the spring and summer months without 
+  committing to the whole year.
+
+## Conclusion
+The analysis of Cyclistic's trip data creates important insights into the behavior of Cyclistic users. Strategies can now be applied to actively convert casual riders to becoming potential members.
 
 
 
