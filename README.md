@@ -135,7 +135,7 @@ The first chart shows the types of bikes casual riders and annual members use.
 
 ![Ride Type Chart](https://github.com/user-attachments/assets/a416d200-fb8a-404f-8f8a-68566249a33c)
 
-It is seen how members make up the most rides with 1,541,992 total on classic bikes. Casual riders are seen mostly riding classic bikes with 842,729 rides and the least on docked bikes 15,333. Annual members do not used docked bikes at all.
+It is seen how members make up the most rides with 1,541,992 total on classic bikes. Casual riders are seen mostly riding classic bikes with 842,729 rides and the least on docked bikes 15,333. Annual members do not used docked bikes at all. Annual members make up a total of 2,240,937 rides, and casual riders make up a total of 1,270,151 rides. This shows that annual members ride just about two times more than casual riders.
 
 These next charts show trip totals for a twelve month period, a week, and a day.
 
@@ -160,9 +160,9 @@ This anlysis confirms the ideas that annual members primarily ride to commute to
 The final part of the analysis is to compare start and end locations for casual and annual members.
 
 ![Starting Location Chart](https://github.com/user-attachments/assets/9e1c4467-4ca9-42a0-90c6-337fbd5c42b7)
-Riders differ in start locations, where casual riders start near parks, museums, beaches, and other recreational facilities. Whereas members start near residential areas, schools, factories, train stations, and grocery stores.
+Different behavior patterns can be seen in start locations for casual riders and annual members. For casual users, big bubbles can be seen near harbors and parks. Conversly, annual members have bigger bubbles near Greektown and Little Italy, where the University of Illinois is located. This suggests that annual members might even be college students who use Cyclistic to commute for class.
 ![Ending Location Chart](https://github.com/user-attachments/assets/53cc2985-2844-4177-b341-cce359c1efa4)
-This chart shows a similar trend with casual riders ending their trips near recreational facilities such as museums and harbors, and members ending their trips near commercial areas such as universities and residential areas. With all this data and information, our insights can be confirmed that casual riders use Cyclistic for recreation/leisure and annual members use it to commute for their daily lives.
+This chart shows a similar trend with casual riders ending their trips near recreational facilities such as parks and harbors, and members ending their trips near commercial areas such as universities and residential areas. With all this data and information, our insights can be confirmed that casual riders use Cyclistic for recreation/leisure and annual members use it to commute for their daily lives.
 
 ### Similarities
 1. Both annual members and casual riders prefer riding in the warmer months (May-August). They both decline after this time, as well.
