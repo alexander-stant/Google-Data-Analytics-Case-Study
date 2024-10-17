@@ -133,7 +133,7 @@ Tables were queried and then used to create charts to visualize the differences 
 
 The first chart shows the types of bikes casual riders and annual members use.
 
-![Ride Type Chart](https://github.com/user-attachments/assets/a9c85feb-7424-4ffb-99a5-328dd8427b8d)
+![Ride Type Chart](https://github.com/user-attachments/assets/a416d200-fb8a-404f-8f8a-68566249a33c)
 
 It is seen how members make up the most rides with 1,541,992 total on classic bikes. Casual riders are seen mostly riding classic bikes with 842,729 rides and the least on docked bikes 15,333. Annual members do not used docked bikes at all.
 
