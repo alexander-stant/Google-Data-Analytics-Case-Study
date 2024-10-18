@@ -176,24 +176,19 @@ This chart shows a similar trend with casual riders ending their trips near recr
 
 ## Act
 Using this information, marketing strategies with the purpose of influencing casual riders to become members are created.
+
   __1. Reward Point System__
-  A reward system where members can earn points for rides, and then use their points to   get discounted membership prices or free rides. Creates an incentive to ride more and   stay loyal to one company.
+   Casual riders ride for longer periods of time, by offering to reward points for riding longer than X amount of minutes they can then redeem these points to reduce the cost of an annual or seasonal membership. This will create an incentive for casual riders to ride for longer and then have points to use towards more rides in the future. This can also be applied to annual members as a chance for them to reduce anuual fees if they ride over a certain amount of time.
 
   __2. Seasonal Memberships__
-  Offering special discounts during peak days of the week or months of the year to     
-  encourage those using it during these times to sign up. Example: lowering membership    cost during summer months.
+  Offering special discounts during peak days of the week or months of the year to   encourage those using it during these times to sign up. Example: lowering membership cost during summer months.
 
   __3. Social Media__
-  Exploiting social media platforms to share testimonials and create content to         
-  encourage casual riders to become members. Highlighting the benefits for casual 
-  riders, and adding the benefits of saving money on gas or public transportation, can 
-  influence casual users to want to get the membership.
+  Exploiting social media platforms to share testimonials and create content to  encourage casual riders to become members. Highlighting the benefits for annual members, and adding the benefits of saving money on gas or public transportation, can influence casual users to want to get the membership.
 
   __4. Membership Offers__
-  Offering more than an annual membership. Monthly or weekly memberships, priced 
-  correctly, can influence casual riders to sign up for longer than a day. This can be 
-  beneficial for those looking to ride in the spring and summer months without 
-  committing to the whole year.
+  Offering more than an annual membership. Monthly or weekly memberships can influence casual riders to sign up for longer than a day. This can be beneficial for those looking to ride in the spring and summer months without 
+committing to the whole year.
 
 ## Conclusion
 The analysis of Cyclistic's trip data creates important insights into the behavior of Cyclistic users. Strategies can now be applied to actively convert casual riders to becoming potential members.
